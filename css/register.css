@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+}
+body{
+	background: url('../Books/form-background.png');
+}
+.form{
+	width: 420px;
+	height: 500px;
+	background-color: white;
+	margin: auto;
+	margin-top: 10%;
+}
+#btn-green{
+	padding: 10px 100px;
+	background: transparent;
+	outline: none;
+	border: 2px solid #49C9AF;
+	border-radius: 0px;
+	cursor: pointer;
+}
+#btn-green:hover{
+	background-color: #49C9AF;
+	color: black;
+	border: 2px solid #60e5d4;
+}
+input{
+	padding: 10px 50px;
+	background: transparent;
+	outline: none;
+	border: 2px solid #49C9AF;
+	border-radius: 0px;
+	cursor: pointer;
+}
