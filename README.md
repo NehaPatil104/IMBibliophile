@@ -1,4 +1,4 @@
-# IMBibliophile
+# IMBibliophile :books: 	:bookmark:
 
 ## Introduction:
 Plenty of people love to read books. A person who loves to read and collect books is called a bibliophile. Bibliophiles face the problem of maintaining the record of which books they have in their bookshelf, what they have read and what they what to read next. Of course they write their reviews and highlighted points after reading each book. Instead writing it in notebooks or pages they can use “Bookshelf Management” project for efficient handling of their bookshelf. They can store their book names, authors, reviews, highlighted points, and date of finishing reading, online, so that their data will never be lost. Our project intend to help the bibliophiles with their work by keeping their data safe and access from anywhere and anytime. The users can check and manage their bookshelf and create their wish list about what they are going to read next. They can challenge themselves by taking up the yearly book reading challenge. From this project, I hope to help bibliophiles with their bookshelf.
